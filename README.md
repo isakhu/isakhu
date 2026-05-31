@@ -124,7 +124,7 @@ Productivity system for managing student tasks, deadlines, and workflow optimiza
 
 ### 👗 Yzak Fashion Store
 Full-stack Ethiopian fashion e-commerce platform with product management, orders, and admin dashboard. Branches in Dire Dawa and Hawassa.
-🔗 https://yzak-fashion-store.onrender.com
+🔗 https://yzak-fashion-store-1.onrender.com
 
 ---
 
