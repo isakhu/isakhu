@@ -116,9 +116,9 @@ Modern developer portfolio with fast performance and clean UI.
 🔗 https://yishak-tule.vercel.app/
 
 ---
-
-### 📚 Task Intelligence System
-Productivity system for managing tasks and workflow optimization.
+### 📚 Student Task Planner
+Productivity system for managing student tasks, deadlines, and workflow optimization. Built with Flask and SQLAlchemy.
+🔗 https://student-task-planner-6kkd.onrender.com
 
 ---
 
