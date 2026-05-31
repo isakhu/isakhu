@@ -19,19 +19,15 @@
 <a href="https://www.linkedin.com/in/yishak-tule">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:yishakhak@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/_yzu__">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="https://t.me/yzak_22">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
 <a href="https://yishak-tule.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -55,7 +51,7 @@
 
 ## 🧠 ABOUT ME
 
-> “Code is temporary. Systems are permanent.”
+> "Code is temporary. Systems are permanent."
 
 I am a **Full-Stack Software Engineer** focused on building **scalable, production-ready systems** with clean architecture and strong engineering principles.
 
@@ -70,7 +66,6 @@ I am a **Full-Stack Software Engineer** focused on building **scalable, producti
 ## ⚙️ TECH STACK
 
 ### 🧠 Languages
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
 </div>
@@ -78,7 +73,6 @@ I am a **Full-Stack Software Engineer** focused on building **scalable, producti
 ---
 
 ### ⚡ Frontend
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </div>
@@ -86,7 +80,6 @@ I am a **Full-Stack Software Engineer** focused on building **scalable, producti
 ---
 
 ### ⚙️ Backend
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </div>
@@ -94,7 +87,6 @@ I am a **Full-Stack Software Engineer** focused on building **scalable, producti
 ---
 
 ### 🗄️ Databases
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </div>
@@ -102,7 +94,6 @@ I am a **Full-Stack Software Engineer** focused on building **scalable, producti
 ---
 
 ### 🛠️ Tools
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
@@ -111,11 +102,12 @@ I am a **Full-Stack Software Engineer** focused on building **scalable, producti
 
 ## 🚀 PROJECTS
 
-### 🌐 Portfolio 
-Modern developer portfolio with fast performance and clean UI.  
+### 🌐 Portfolio
+Modern developer portfolio with fast performance and clean UI.
 🔗 https://yishak-tule.vercel.app/
 
 ---
+
 ### 📚 Student Task Planner
 Productivity system for managing student tasks, deadlines, and workflow optimization. Built with Flask and SQLAlchemy.
 🔗 https://student-task-planner-6kkd.onrender.com
@@ -128,21 +120,58 @@ Full-stack Ethiopian fashion e-commerce platform with product management, orders
 
 ---
 
-### 💎yzak luxury brand
-Luxury UI/UX digital brand experience focused on high-end design.  
+### 💎 Yzak Luxury Brand
+Luxury UI/UX digital brand experience focused on high-end design.
 🔗 https://yzak-luxury-brand.vercel.app/
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GITHUB STATS & ACTIVITY
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isakhu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isakhu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isakhu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=isakhu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isakhu&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=isakhu&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 SKILL PROGRESS
+
+```text
+JavaScript   ████████████████████░░░░   90%
+TypeScript   ████████████████████░░░░   85%
+Python       ███████████████░░░░░░░░░   70%
+React        ████████████████████░░░░   88%
+Next.js      ███████████████████░░░░░   85%
+Node.js      ████████████████░░░░░░░░   75%
+Tailwind CSS ████████████████████░░░░   90%
+SQL          ██████████████░░░░░░░░░░   65%
+```
 
 ---
 
@@ -150,7 +179,7 @@ Luxury UI/UX digital brand experience focused on high-end design.
 
 <div align="center">
 
-> “Great engineers don’t just write code — they build systems that scale.”
+> "Great engineers don't just write code — they build systems that scale."
 
 </div>
 
