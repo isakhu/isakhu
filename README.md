@@ -111,7 +111,7 @@ I am a **Full-Stack Software Engineer** focused on building **scalable, producti
 
 ## 🚀 PROJECTS
 
-### 🌐 Portfolio System
+### 🌐 Portfolio 
 Modern developer portfolio with fast performance and clean UI.  
 🔗 https://yishak-tule.vercel.app/
 
