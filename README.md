@@ -128,7 +128,7 @@ Full-stack Ethiopian fashion e-commerce platform with product management, orders
 
 ---
 
-### 💎 Premium Brand System
+### 💎yzak luxury brand
 Luxury UI/UX digital brand experience focused on high-end design.  
 🔗 https://yzak-luxury-brand.vercel.app/
 
