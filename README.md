@@ -122,8 +122,9 @@ Productivity system for managing tasks and workflow optimization.
 
 ---
 
-### 👕 E-Commerce System (YZAK Store)
-Scalable fashion e-commerce platform with modern UI/UX.
+### 👗 Yzak Fashion Store
+Full-stack Ethiopian fashion e-commerce platform with product management, orders, and admin dashboard. Branches in Dire Dawa and Hawassa.
+🔗 https://yzak-fashion-store.onrender.com
 
 ---
 
