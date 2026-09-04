@@ -1,192 +1,344 @@
-<!-- ================= YISHAK TULE — PROFESSIONAL GITHUB PROFILE ================= -->
+<!-- =========================================================
+     YISHAK TULE — GITHUB PROFILE
+     Software Engineer | Full-Stack Developer
+========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1220,100:000000&text=YISHAK%20TULE&fontColor=f5c542&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:020617&text=YISHAK%20TULE&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=15" />
 
-<br/>
+<br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=900&color=F5C542&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems+Not+Just+Apps;Full-Stack+Engineer+%7C+React+%7C+Node.js+%7C+TypeScript;Focused+on+Performance%2C+Architecture+%26+Clean+Code" />
+**Building production-oriented web, desktop, and business systems.**
+
+<br />
+
+<a href="https://yishak-tule.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/yishak-tule">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yishakhak@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/isakhu">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 👋 About Me
+
+I'm **Yishak Tule**, a Software Engineering student and full-stack developer from Ethiopia focused on building practical software systems.
+
+I enjoy turning real-world problems into reliable digital products — from business platforms and management systems to e-commerce applications and offline desktop software.
+
+### What I work with
+
+* Full-stack web development
+* Backend APIs and system architecture
+* Database-driven applications
+* Authentication and authorization
+* Responsive and accessible interfaces
+* Desktop application development
+* Deployment and production workflows
+* Problem solving and software engineering fundamentals
+
+> **I don't just build interfaces. I build systems around real problems.**
+
+---
+
+# 🧰 Technology Stack
+
+### Languages
 
 <div align="center">
-<a href="https://www.linkedin.com/in/yishak-tule"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yishakhak@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_yzu__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/yzak_22"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://yishak-tule.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+</div>
+
+### Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+</div>
+
+### Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+
+</div>
+
+### Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,electron,vercel" />
+
 </div>
 
 ---
 
-## ⚡ CORE PROFILE
+# 🚀 Featured Projects
 
-<div align="center">
-![Role](https://img.shields.io/badge/Role-Full%20Stack%20Engineer-0ea5e9?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-System%20Design%20%26%20Scalability-facc15?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Advanced%20Builder-22c55e?style=for-the-badge)
-![Vision](https://img.shields.io/badge/Vision-Build%20Global%20Tech%20Products-f97316?style=for-the-badge)
-</div>
+## 🎱 Happy Bingo
 
----
+### Offline Bingo Management System
 
-## 🧠 ABOUT ME
+A desktop Bingo management application designed around real-world Bingo operations.
 
-> "Code is temporary. Systems are permanent."
+**Key engineering areas**
 
-I am a **Full-Stack Software Engineer** focused on building **real-world, production-oriented systems** with clean architecture and strong engineering principles.
-
-- ⚙️ System Design & Scalable Architecture
-- 🚀 Real-world desktop and web applications
-- 🧠 Problem Solving & DSA mindset
-- 🎯 Goal: Top-tier Software Engineer
-- 🏢 Vision: Build global tech products
-
----
-
-## ⚙️ TECH STACK
-
-### 🧠 Languages
-<div align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" /></div>
-
-### ⚡ Frontend
-<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></div>
-
-### ⚙️ Backend
-<div align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></div>
-
-### 🗄️ Databases
-<div align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /></div>
-
-### 🛠️ Tools
-<div align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></div>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-### 🎱 Happy Bingo — Offline Bingo Management System
-A desktop Bingo product designed for real-world Bingo operators: automatic 75-number calling, recorded voices, printed-cartella verification, winner checking, locked invalid claims, money tracking, and offline operation.
+* Automated 75-number game flow
+* Non-repeating number generation
+* Player and cartella management
+* Winner verification
+* Multiple winner handling
+* Prize and money tracking
+* Secondary-screen / TV experience
+* Offline-first operation
+* Electron desktop architecture
 
 **Tech:** React · TypeScript · Electron · Tailwind CSS
 
-🔗 **Repository:** https://github.com/isakhu/happy-bingo
+🔗 **Repository:**
+https://github.com/isakhu/happy-bingo
 
 ---
 
-### 🌴 Tule Resort — Resort Management Platform
-A full-stack resort website and management platform with rooms, reservations, services, menu/content management, gallery content and a manager dashboard backed by Supabase/PostgreSQL.
+## 🌴 Tule Resort
+
+### Full-Stack Resort Management Platform
+
+A digital resort platform combining a customer-facing website with management functionality for operational content.
+
+**Includes**
+
+* Room management
+* Reservation workflows
+* Services
+* Menu management
+* Gallery/content management
+* Manager dashboard
+* Database-backed content
+* Responsive interface
 
 **Tech:** Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS
 
-🔗 **Repository:** https://github.com/isakhu/Tule-Resort
+🔗 **Repository:**
+https://github.com/isakhu/Tule-Resort
 
 ---
 
-### 👗 Yzak Fashion Store — E-Commerce Platform
-Full-stack Ethiopian fashion e-commerce platform with product management, orders and administration.
+## 👗 Yzak Fashion Store
+
+### Full-Stack E-Commerce Platform
+
+A fashion commerce system focused on product management, shopping workflows and administration.
+
+**Engineering focus**
+
+* Product management
+* API-driven architecture
+* E-commerce workflows
+* Frontend/backend integration
+* Administrative functionality
+* Responsive UI
 
 **Tech:** FastAPI · Python · React · TypeScript
 
-🔗 **Live:** https://yzak-fashion-store-1.onrender.com
-🔗 **Repository:** https://github.com/isakhu/YZ-fashion-store
+🌐 **Live:**
+https://yzak-fashion-store-1.onrender.com
+
+🔗 **Repository:**
+https://github.com/isakhu/YZ-fashion-store
 
 ---
 
-### 💎 Yzak Luxury Brand
-Luxury digital brand experience focused on high-end visual design, responsive UI and modern frontend development.
+## 💎 Yzak Luxury Brand
+
+### Modern Luxury Digital Experience
+
+A visually focused web experience exploring premium digital design, responsive layouts and modern frontend architecture.
 
 **Tech:** Next.js · TypeScript · Tailwind CSS
 
-🔗 **Live:** https://yzak-luxury-brand.vercel.app
-🔗 **Repository:** https://github.com/isakhu/yzak-luxury-brand
+🌐 **Live:**
+https://yzak-luxury-brand.vercel.app
+
+🔗 **Repository:**
+https://github.com/isakhu/yzak-luxury-brand
 
 ---
 
-### 🌐 Personal Portfolio
-My personal developer portfolio and professional online presence.
+## 🏫 Hawassa Tabor School
 
-🔗 **Live:** https://yishak-tule.vercel.app
-🔗 **Repository:** https://github.com/isakhu/yishak-tule
+### School Management Platform
 
----
+A domain-focused software system designed around school administration and digital management workflows.
 
-### 📚 Student Task Planner
-A productivity application for managing student tasks, deadlines and workflow.
+**Engineering focus**
 
-🔗 **Live:** https://student-task-planner-6kkd.onrender.com
-🔗 **Repository:** https://github.com/isakhu/DDU-Student-task-planner
+* Student management
+* Teacher management
+* Structured workflows
+* Role-based functionality
+* Backend integration
+* Database-driven operations
 
----
-
-### 🏫 Hawassa Tabor School
-School-focused software project demonstrating another real-world domain and application workflow.
-
-🔗 **Repository:** https://github.com/isakhu/hawassa-tabor-school
+🔗 **Repository:**
+https://github.com/isakhu/hawassa-tabor-school
 
 ---
 
-## 📊 GITHUB STATS & ACTIVITY
+## 📚 Student Task Planner
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isakhu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isakhu&layout=compact&theme=tokyonight&hide_border=true"/>
+### Student Productivity Application
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=isakhu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+A productivity platform designed to help students organize tasks, deadlines and daily workflows.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isakhu&theme=tokyonight" />
-</div>
+🌐 **Live:**
+https://student-task-planner-6kkd.onrender.com
 
----
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=isakhu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+🔗 **Repository:**
+https://github.com/isakhu/DDU-Student-task-planner
 
 ---
 
-## 📈 SKILL PROGRESS
+# 🏗️ Engineering Approach
+
+I approach software development as a complete engineering process:
 
 ```text
-JavaScript   ████████████████████░░░░   90%
-TypeScript   ████████████████████░░░░   85%
-Python       ███████████████░░░░░░░░░   70%
-React        ████████████████████░░░░   88%
-Next.js      ███████████████████░░░░░   85%
-Node.js      ████████████████░░░░░░░░   75%
-Tailwind CSS ████████████████████░░░░   90%
-SQL          ██████████████░░░░░░░░░░   65%
+Real-world Problem
+        ↓
+Requirements
+        ↓
+System Design
+        ↓
+Frontend + Backend
+        ↓
+Database
+        ↓
+Testing & Debugging
+        ↓
+Deployment
+        ↓
+Continuous Improvement
 ```
 
+My focus is on:
+
+**Architecture · APIs · Databases · Security · Performance · UX · Maintainability**
+
 ---
 
-## 👀 PROFILE VISITS
+# 📈 Current Focus
+
+Currently strengthening my knowledge in:
+
+* Advanced TypeScript
+* Next.js architecture
+* Backend API design
+* PostgreSQL and database modeling
+* Authentication & authorization
+* Data structures & algorithms
+* Software architecture
+* Testing
+* System design
+* Production deployment
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=isakhu&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="GitHub profile views" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=isakhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isakhu&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isakhu&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🧭 FINAL PRINCIPLE
+# 🐍 Contribution Activity
 
 <div align="center">
 
-> "Great engineers don't just write code — they build systems that scale."
-
-### ⭐ Always building. Always improving. Always shipping.
+<img src="https://raw.githubusercontent.com/isakhu/isakhu/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
 
 </div>
 
+---
+
+# 📈 Contribution Overview
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:0b1220" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isakhu&theme=github_dark" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=isakhu&label=PROFILE%20VIEWS&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🎯 Engineering Goals
+
+My long-term goal is to become a strong software engineer capable of designing, building and maintaining reliable systems that solve meaningful problems at scale.
+
+I'm continuously working toward:
+
+**Better Systems → Better Engineering → Better Products**
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in software engineering, product development, technology or collaboration, feel free to connect.
+
+<br />
+
+<a href="https://yishak-tule.vercel.app">🌐 Portfolio</a>
+  •   <a href="https://www.linkedin.com/in/yishak-tule">💼 LinkedIn</a>
+  •   <a href="https://github.com/isakhu">💻 GitHub</a>
+  •   <a href="mailto:yishakhak@gmail.com">✉️ Email</a>
+
+<br /><br />
+
+⭐ **Always learning. Always building. Always shipping.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,100:0f172a&section=footer" />
+
 </div>
