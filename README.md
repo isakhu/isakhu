@@ -5,47 +5,47 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:020617&text=YISHAK%20TULE&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,100:0f172a&text=YISHAK%20TULE&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=63&descSize=16" />
 
 <br />
 
-**Building production-oriented web, desktop, and business systems.**
+### Building reliable software systems for real-world problems.
 
 <br />
 
 <a href="https://yishak-tule.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/yishak-tule">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yishakhak@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/isakhu">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=isakhu&label=PROFILE%20VIEWS&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm **Yishak Tule**, a Software Engineering student and full-stack developer from Ethiopia focused on building practical software systems.
+I'm **Yishak Tule**, a Software Engineering student and full-stack developer from Ethiopia focused on building practical, maintainable software systems.
 
-I enjoy turning real-world problems into reliable digital products — from business platforms and management systems to e-commerce applications and offline desktop software.
+I enjoy turning real-world requirements into complete products — from frontend interfaces and backend APIs to databases, authentication, deployment, and the operational workflows around them.
 
-### What I work with
+My work spans **web applications, business platforms, management systems, e-commerce experiences, and offline desktop software**.
 
-* Full-stack web development
-* Backend APIs and system architecture
-* Database-driven applications
-* Authentication and authorization
-* Responsive and accessible interfaces
-* Desktop application development
-* Deployment and production workflows
-* Problem solving and software engineering fundamentals
+### Engineering interests
+
+`System Design` · `Full-Stack Development` · `Backend Architecture` · `Database Design`
+`Authentication` · `API Design` · `Testing` · `Performance` · `Security` · `Deployment`
 
 > **I don't just build interfaces. I build systems around real problems.**
 
@@ -95,174 +95,211 @@ I enjoy turning real-world problems into reliable digital products — from busi
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 Flagship Projects
 
-## 🎱 Happy Bingo
+<div align="center">
+
+## 🎱 HAPPY BINGO
 
 ### Offline Bingo Management System
 
-A desktop Bingo management application designed around real-world Bingo operations.
+**Desktop Engineering · Game Logic · Multi-Display · Offline Architecture**
 
-**Key engineering areas**
+A desktop Bingo management system built around real-world game operations, from number calling and cartella management to winner verification and secondary-screen presentation.
 
-* Automated 75-number game flow
-* Non-repeating number generation
-* Player and cartella management
-* Winner verification
-* Multiple winner handling
-* Prize and money tracking
-* Secondary-screen / TV experience
-* Offline-first operation
-* Electron desktop architecture
+<br />
 
-**Tech:** React · TypeScript · Electron · Tailwind CSS
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 
-🔗 **Repository:**
-https://github.com/isakhu/happy-bingo
+</div>
+
+### ⚡ System highlights
+
+| 🎯 Game Engine              | 🎫 Cartella Management | 📺 Display                  |
+| --------------------------- | ---------------------- | --------------------------- |
+| Automated 75-number calling | Player management      | Secondary-screen support    |
+| Non-repeating calls         | Winner verification    | Real-time game presentation |
+| Configurable game flow      | Multiple winners       | Offline operation           |
+
+**Engineering focus:** state management · game logic · desktop architecture · local data · multi-screen UX
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/isakhu/happy-bingo)
+
+</div>
 
 ---
 
-## 🌴 Tule Resort
+<div align="center">
+
+## 🌴 TULE RESORT
 
 ### Full-Stack Resort Management Platform
 
-A digital resort platform combining a customer-facing website with management functionality for operational content.
+**Web Architecture · Database-Driven Operations · CMS · Management Dashboard**
 
-**Includes**
+A full-stack resort platform connecting the customer-facing experience with operational management for rooms, reservations, services, menus, and content.
 
-* Room management
-* Reservation workflows
-* Services
-* Menu management
-* Gallery/content management
-* Manager dashboard
-* Database-backed content
-* Responsive interface
+<br />
 
-**Tech:** Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 
-🔗 **Repository:**
-https://github.com/isakhu/Tule-Resort
+</div>
 
----
+### ⚡ System highlights
 
-## 👗 Yzak Fashion Store
+| 🏨 Operations        | 🗄️ Data        | 🧑‍💼 Management   |
+| -------------------- | --------------- | ------------------ |
+| Rooms & reservations | PostgreSQL      | Manager dashboard  |
+| Services & menu      | Supabase        | Content management |
+| Resort content       | Structured data | Gallery management |
 
-### Full-Stack E-Commerce Platform
+**Engineering focus:** full-stack architecture · database modeling · CRUD workflows · content management · responsive UX
 
-A fashion commerce system focused on product management, shopping workflows and administration.
+<div align="center">
 
-**Engineering focus**
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/isakhu/Tule-Resort)
 
-* Product management
-* API-driven architecture
-* E-commerce workflows
-* Frontend/backend integration
-* Administrative functionality
-* Responsive UI
-
-**Tech:** FastAPI · Python · React · TypeScript
-
-🌐 **Live:**
-https://yzak-fashion-store-1.onrender.com
-
-🔗 **Repository:**
-https://github.com/isakhu/YZ-fashion-store
+</div>
 
 ---
 
-## 💎 Yzak Luxury Brand
+<div align="center">
 
-### Modern Luxury Digital Experience
+## 🏫 HAWASSA TABOR SCHOOL
 
-A visually focused web experience exploring premium digital design, responsive layouts and modern frontend architecture.
+### School Management System
 
-**Tech:** Next.js · TypeScript · Tailwind CSS
+**Education Technology · Role-Based Workflows · Data Management · Full-Stack Engineering**
 
-🌐 **Live:**
-https://yzak-luxury-brand.vercel.app
+A school-focused management platform designed around practical administrative workflows for students, teachers, and school operations.
 
-🔗 **Repository:**
-https://github.com/isakhu/yzak-luxury-brand
+<br />
 
----
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 
-## 🏫 Hawassa Tabor School
+</div>
 
-### School Management Platform
+### ⚡ System highlights
 
-A domain-focused software system designed around school administration and digital management workflows.
+| 👨‍🎓 Students       | 👨‍🏫 Teachers       | 🔐 Administration    |
+| -------------------- | -------------------- | -------------------- |
+| Student records      | Teacher management   | Authentication       |
+| Structured workflows | Staff workflows      | Access control       |
+| School operations    | Administrative tools | Protected operations |
 
-**Engineering focus**
+**Engineering focus:** authentication · authorization · API integration · database-backed workflows · administration UX
 
-* Student management
-* Teacher management
-* Structured workflows
-* Role-based functionality
-* Backend integration
-* Database-driven operations
+<div align="center">
 
-🔗 **Repository:**
-https://github.com/isakhu/hawassa-tabor-school
+[![Live Application](https://img.shields.io/badge/LIVE%20APPLICATION-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hawassa-tabor-school.vercel.app)
 
----
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/isakhu/hawassa-tabor-school)
 
-## 📚 Student Task Planner
-
-### Student Productivity Application
-
-A productivity platform designed to help students organize tasks, deadlines and daily workflows.
-
-🌐 **Live:**
-https://student-task-planner-6kkd.onrender.com
-
-🔗 **Repository:**
-https://github.com/isakhu/DDU-Student-task-planner
+</div>
 
 ---
 
-# 🏗️ Engineering Approach
+<div align="center">
 
-I approach software development as a complete engineering process:
+## 💎 YZAK LUXURY BRAND
+
+### Premium Digital Brand Experience
+
+**Frontend Architecture · Visual Design · Responsive UX · Performance**
+
+A premium digital brand experience combining modern frontend engineering with a polished, luxury-oriented visual system.
+
+<br />
+
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+
+</div>
+
+### ⚡ Experience highlights
+
+| ✨ Visual System      | 📱 User Experience | ⚙️ Engineering       |
+| -------------------- | ------------------ | -------------------- |
+| Premium layouts      | Responsive design  | Next.js architecture |
+| Product presentation | Mobile-first UX    | Reusable components  |
+| Modern interactions  | Refined navigation | Performance focus    |
+
+**Engineering focus:** component architecture · responsive systems · visual hierarchy · interaction design · frontend performance
+
+<div align="center">
+
+[![Live Website](https://img.shields.io/badge/LIVE%20WEBSITE-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://yzak-luxury-brand.vercel.app)
+
+[![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/isakhu/yzak-luxury-brand)
+
+</div>
+
+---
+
+# 🏗️ Engineering Practices
+
+I aim to build software that is not only functional, but also **maintainable, secure, testable, understandable, and ready to evolve**.
+
+| Area               | What I care about                                                     |
+| ------------------ | --------------------------------------------------------------------- |
+| 🏛️ Architecture   | Separation of concerns, modularity, reusable components               |
+| 🔌 APIs            | Clear contracts, validation, error handling                           |
+| 🗄️ Databases      | Relationships, integrity, efficient data access                       |
+| 🔐 Security        | Authentication, authorization, input validation, secure configuration |
+| 🧪 Testing         | Unit, integration, and end-to-end testing where appropriate           |
+| ⚙️ DevOps          | Git workflows, CI/CD, environment management, deployment              |
+| 📊 Observability   | Useful logs, debugging, failure visibility                            |
+| 🚀 Performance     | Efficient rendering, queries, caching, resource usage                 |
+| 📚 Documentation   | Clear setup instructions, architecture notes, useful READMEs          |
+| 🔄 Maintainability | Refactoring, consistency, dependency hygiene                          |
+
+---
+
+# 🧠 Engineering Mindset
+
+Before implementing a feature, I try to understand:
 
 ```text
-Real-world Problem
-        ↓
-Requirements
-        ↓
-System Design
-        ↓
-Frontend + Backend
-        ↓
-Database
-        ↓
-Testing & Debugging
-        ↓
-Deployment
-        ↓
-Continuous Improvement
+What problem are we solving?
+          ↓
+What are the requirements?
+          ↓
+What can fail?
+          ↓
+How should the system be structured?
+          ↓
+How will data move through the system?
+          ↓
+How will we test it?
+          ↓
+How will we deploy it?
+          ↓
+How will we maintain it?
 ```
 
-My focus is on:
-
-**Architecture · APIs · Databases · Security · Performance · UX · Maintainability**
+I value **clarity over cleverness**, **reliability over shortcuts**, and **maintainability over unnecessary complexity**.
 
 ---
 
 # 📈 Current Focus
 
-Currently strengthening my knowledge in:
+Currently deepening my skills in:
 
-* Advanced TypeScript
-* Next.js architecture
-* Backend API design
-* PostgreSQL and database modeling
-* Authentication & authorization
-* Data structures & algorithms
-* Software architecture
-* Testing
-* System design
-* Production deployment
+**Advanced TypeScript · Next.js Architecture · Backend APIs · PostgreSQL · Authentication · Security · Testing · System Design · Data Structures & Algorithms · Production Deployment**
 
 ---
 
@@ -270,45 +307,51 @@ Currently strengthening my knowledge in:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=isakhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=isakhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isakhu&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isakhu&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isakhu&hide_border=true&theme=transparent" />
+<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=isakhu&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 📅 Daily Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/isakhu/isakhu/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isakhu&custom_title=Daily%20Contribution%20Activity&hide_border=true&area=true&radius=8" />
 
 </div>
 
 ---
 
-# 📈 Contribution Overview
+# 🗓️ Contribution Overview
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isakhu&theme=github_dark" />
 
-<br /><br />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=isakhu&label=PROFILE%20VIEWS&style=for-the-badge" />
+---
+
+# 🐍 Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/isakhu/isakhu/output/github-contribution-grid-snake.svg" alt="GitHub contribution calendar" />
 
 </div>
 
 ---
 
-# 🎯 Engineering Goals
+# 🎯 What I'm Building Toward
 
-My long-term goal is to become a strong software engineer capable of designing, building and maintaining reliable systems that solve meaningful problems at scale.
+My goal is to become a highly capable software engineer who can take a problem from **requirements → architecture → implementation → deployment → continuous improvement**.
 
 I'm continuously working toward:
 
@@ -316,11 +359,11 @@ I'm continuously working toward:
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect
 
 <div align="center">
 
-If you're interested in software engineering, product development, technology or collaboration, feel free to connect.
+### Let's build something meaningful.
 
 <br />
 
@@ -339,6 +382,6 @@ If you're interested in software engineering, product development, technology or
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,100:0f172a&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,100:020617&section=footer" />
 
 </div>
